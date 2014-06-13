@@ -6,6 +6,9 @@ gem "mechanize", "~> 2.7"
 gem "nokogiri", "~> 1.6"
 gem "activesupport", "~> 4.1"
 gem "httparty", "~> 0.13"
+
+gem "imdb-html", "0.0.1"
+
 # Add dependencies to develop your gem here.
 # Include everything needed to run rake, tests, features, etc.
 group :development do
